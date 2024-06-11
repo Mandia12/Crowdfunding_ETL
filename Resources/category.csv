@@ -1,10 +1,10 @@
-0
-food
-music
-technology
-theater
-film & video
-publishing
-games
-photography
-journalism
+category,cat_id
+food,cat1
+music,cat2
+technology,cat3
+theater,cat4
+film & video,cat5
+publishing,cat6
+games,cat7
+photography,cat8
+journalism,cat9
