@@ -36,6 +36,3 @@ This project involves data engineering, processing, and analyzing crowdfunding d
 
 ## Usage
 To run this project, ensure you have the required dependencies installed and the input data files in the correct location. Then, execute the main Python script.
-
-## Note
-This README is based on code comments. The actual implementation details may vary. Make sure to update this README with any additional information specific to your project setup and execution.
